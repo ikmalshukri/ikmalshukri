@@ -4,13 +4,13 @@
 ### I'm a Website Developer
 
 - 🔭 Studying in UniKL MIIT, based in Kuala Lumpur, Malaysia.
-- 🌱 Currently in Semester 5 in Bachelor of Software Engineering.
+- 🌱 Currently Semester 5 in Bachelor of Software Engineering.
 - 👯 Looking to make fun projects during free time.
 - 🥅 Goals: To become a successful Front-End Web Developer.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[linkedin](https://www.linkedin.com/in/ikmal-shukri-39655a23a/)]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -32,3 +32,5 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+[linkedin]: [https://www.linkedin.com/in/ikmal-shukri-39655a23a]
