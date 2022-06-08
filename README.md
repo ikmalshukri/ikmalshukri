@@ -25,8 +25,6 @@
 <p>JavaScript</p>
 <img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" />
 <p>Bootstrap</p>
-<img align="left" alt="React" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
-<p>React</p>
 
 
 ### Tools:
