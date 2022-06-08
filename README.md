@@ -4,8 +4,11 @@
 ### I'm a Website Developer
 
 🏙️ Studying in UniKL MIIT, based in Kuala Lumpur, Malaysia.
+<br>
 🎓 Currently Semester 5 in Bachelor of Software Engineering.
+<br>
 📁 Looking to make fun projects during free time.
+<br>
 🥅 Goals: To become a successful Front-End Web Developer.
 
 ### Connect with me:
